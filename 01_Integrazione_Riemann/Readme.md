@@ -1,9 +1,9 @@
-Questo modulo analizza la convergenza delle Somme di Riemann verso il valore esatto dell'integrale definito, validando numericamente i risultati ottenuti tramite il Teorema Fondamentale del Calcolo Integrale (TFCI).
+# Verifica del Teorema Fondamentale del Calcolo Integrale (Torricelli-Barrow)
 
-# Panoramica
+Questo modulo contiene un esperimento numerico volto a validare il Teorema Fondamentale del Calcolo Integrale, esplorando la relazione di reciprocità tra l'operazione di integrazione e quella di derivazione.
 
-Il progetto mira a validare il TFCI utilizzando un approccio computazionale. Invece di una derivazione puramente teorica, il notebook si concentra sulla coerenza numerica:
+ossia che $F'(x)=f(x)$
 
-Approssimazione di Riemann: Viene calcolata la somma delle aree dei rettangoli sottesi alla funzione per una partizione dell'intervallo [a,b] sempre più fitta.
+Il confronto grafico nel notebook mostra una sovrapposizione quasi perfetta tra la funzione integranda originale e la derivata della funzione integrale calcolata numericamente, con errori minimi dovuti alla discretizzazione.
 
-    Analisi degli Errori: Viene quantificato lo scarto tra il risultato analitico e quello numerico, visualizzando la convergenza della precisione.
+[./riemann_animation.gif]
