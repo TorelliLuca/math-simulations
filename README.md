@@ -6,4 +6,4 @@ Ogni progetto contenuto in questa raccolta segue un approccio duale:
 ## 📁 Contenuti della Repo
 | Progetto | Descrizione | Tech Stack |
 | :--- | :--- | :--- |
-| [01_Integrazione_Riemann](./01_Integrazione_Riemann) | Visualizzazione della convergenza dell'integrale definito. | Python, LaTeX |
+| [01_Integrazione_Riemann](./01_Integrazione_Riemann) | Dimostrazione del Teorema Fondamentale del Calcolo integrale. | Python, LaTeX |
