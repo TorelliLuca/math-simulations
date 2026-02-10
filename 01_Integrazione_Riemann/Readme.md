@@ -6,4 +6,4 @@ ossia che $F'(x)=f(x)$
 
 Il confronto grafico nel notebook mostra una sovrapposizione quasi perfetta tra la funzione integranda originale e la derivata della funzione integrale calcolata numericamente, con errori minimi dovuti alla discretizzazione.
 
-[./riemann_animation.gif]
+![me](https://github.com/TorelliLuca/math-simulations/blob/main/01_Integrazione_Riemann/riemann_animation.gif)
